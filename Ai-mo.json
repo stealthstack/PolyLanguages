@@ -85,8 +85,8 @@
   "gamesettings.size.tiles": "{0} tiles map.",
   "gamesettings.continue": "CONTINUE",
 
-  "gamemode.perfection.caps": "PERFECTION",
-  "gamemode.perfection": "Perfection",
+  "gamemode.perfection.caps": "LEBITATE",
+  "gamemode.perfection": "Lebitate",
   "gamemode.perfection.description.button": "Show your skills on the global hiscore in the classic 30 turns game.",
   "gamemode.perfection.description": "Get the highest possible score before the time runs out.",
   "gamemode.perfection.win": "We have reached the end of time. The memory of your tribe will echo in eternity!",

@@ -275,9 +275,7 @@
   "unit.names.bunny": "Bunny",
   "unit.names.scout": "Scout",
   "unit.names.boat": "Boat",
-  "unit.names.warrior": var array:Array = new Array ("Apples","Bananas","Grapes"); //create an array of possible strings
-var randomIndex:int = Math.floor ( Math.random () * array.length ); //generate a random integer between 0 and the length of the array
-myTextField.text = array [ randomIndex ]; //put the random string in your text field,
+  "unit.names.warrior": "Warrior",
   "unit.names.rider": "Rider",
   "unit.names.knight": "Knight",
   "unit.names.defender": "Defender",

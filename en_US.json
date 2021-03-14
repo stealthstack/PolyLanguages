@@ -275,16 +275,7 @@
   "unit.names.bunny": "Bunny",
   "unit.names.scout": "Scout",
   "unit.names.boat": "Boat",
-  "unit.names.warrior": "var array = [
-    ["Mango","M"],
-    ["Lychee","L"],
-    ["Pineapple","P"],
-    ["Banana","B"]
-];
-var randomItem = array[Math.random() * array.length | 0];
-
-// take only the element with index 0
-alert(randomItem[0]);",
+  "unit.names.warrior": "Cat",
   "unit.names.rider": "Rider",
   "unit.names.knight": "Knight",
   "unit.names.defender": "Defender",
